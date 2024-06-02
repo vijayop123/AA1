@@ -1,0 +1,12 @@
+UserID: 5230071485 | Time: 2024-05-28 09:21:17.607284 | Command: /bgmi | Target: 20.235.95.133 | Port: 25247 | Time: 300
+Username: @Jhhfffghhbh
+Target: 20.235.95.133
+Port: 25247
+Time: 300
+
+UserID: 5230071485 | Time: 2024-05-28 09:21:23.614202 | Command: /bgmi | Target: 20.235.95.133 | Port: 25247 | Time: 300
+Username: @Jhhfffghhbh
+Target: 20.235.95.133
+Port: 25247
+Time: 300
+
